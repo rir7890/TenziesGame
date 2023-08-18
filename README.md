@@ -1,4 +1,6 @@
-# co0f54acf99a6c56c2a56211a
+# Tenzies Game
+![image](https://github.com/rir7890/TenziesGame/assets/98277620/9ae944db-021f-49b5-bb61-68cb3332496b)
+
 
 Quick start:
 
